@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento da FATEC (Botucatu/SP)<br>Estou a procura de projetos para colaborar e desenvolver minha capacidade em programação.<br>
+Sou estudante de Análise e Desenvolvimento de Sistemas da FATEC (Botucatu/SP)<br>Estou a procura de projetos para colaborar e desenvolver minha capacidade em programação.<br>
 
 
 ## 🌐 Socials:
