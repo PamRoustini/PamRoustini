@@ -1,5 +1,6 @@
 # 💫 About Me:
-Sou estudante de Análise e Desenvolvimento de Sistemas da FATEC (Botucatu/SP)<br>Estou a procura de projetos para colaborar e desenvolver minha capacidade em programação.<br>
+Graduated in nursing, with a specialization in preceptorship in the SUS and a master's degree in Nursing, having participated in the development stages of an application aimed at this area, I was attracted to the area of ​​health programming and it is in this environment that I want to continue. <br> Systems Analysis and Development Student at FATEC (Botucatu/SP)<br>I'm looking for projects to collaborate and develop my programming skills.<br>
+
 
 
 ## 🌐 Socials:
